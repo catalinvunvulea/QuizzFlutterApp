@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+App created during classes from udemy.com: Flutter & Dart - The Complete Guide [2020 Edition]
+Your progress
+Share
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
